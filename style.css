@@ -1,0 +1,29 @@
+body {
+  margin: 0%;
+  background-image: url("cryptos.jpg");
+}
+
+h1 {
+  color: white;
+  background-color: rgba(35, 37, 36, 0.7);
+  text-align: center;
+  margin-top: 7em !important;
+  padding: 0.4em 0;
+  font-family: "roboto mono";
+  letter-spacing: 0.2em;
+}
+
+.boton {
+  display: flex;
+  justify-content: center;  
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  background-color: rgba(35, 37, 36, 0.7);
+  font-size: large;
+  margin: 1.5em;
+  padding: 0.5em;
+}
